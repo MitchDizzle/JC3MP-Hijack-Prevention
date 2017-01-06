@@ -1,0 +1,8 @@
+{
+    "name": "hijack-prevent",
+    "version": "1.0.0",
+    "author": "MitchDizzle",
+    "jcmp_dependencies": [
+        "nanos-freeroam"
+    ]
+}
